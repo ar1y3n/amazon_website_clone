@@ -17,10 +17,10 @@
     width: 100px;
 }
 .logo {
-    background-image: url("amazon_");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
-    width: 120px;
+    width: 113px;
 }
 .border {
     border: 2px solid transparent;
@@ -244,11 +244,11 @@
     justify-content: center;
     align-items: center;
  }
- .logo2 {
-    background-image: url("amazon_logo2.jpg");
+ .logo {
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
-    width: 100px;
+    width: 113px;
 }
 .foot-panel4 {
     background-color: #0f1111;
